@@ -5,3 +5,13 @@
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 ![alt text](image-6.png)
+
+comparacion-soap-rest/
+│
+├── README.md
+├── .gitignore
+├── pom.xml (o build.gradle)
+├── soap/
+├── rest/
+└── wsdl/
+    └── servicio.wsdl
